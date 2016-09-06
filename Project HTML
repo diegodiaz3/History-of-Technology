@@ -1,3 +1,5 @@
+<!--version 2-->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,7 +20,8 @@
 
     </style>
 
-    <meta charset="UTF-8">
+   <meta charset="UTF-8">
+   <header>
     <title>ModernvComputing History</title>
 
 </head>
@@ -46,7 +49,7 @@ class="tab">
 Modern computing has been around since the early 1900s. Although computing was unreliable and very pricey at that time, there are people who have revolutionized the computer industry. The most noteworthy people who revolutionized computing are: Tim Berners-Lee, Steve Jobs, and Bill Gates. These men will change computing history with their marvelous achievements.
 </p>
 
-
+</header>
     <div style="text-align: center;">
     <img
             src="data:image/jpeg;base64,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"
@@ -54,6 +57,7 @@ Modern computing has been around since the early 1900s. Although computing was u
          style="width:256px;height:170.5px;">
         </div>
         <!--Paragraph 2-->
+        <article>
 <p style="border:3px; border-style:solid; border-color:black; padding: 1em;"
 
         class="tab">Timothy John Berners-Lee, also known as TimBL, was born June 8, 1955. Berners-Lee is credited with developing the World Wide Web. Berners-Lee first proposed his idea for the world wide web in 1989 and redistributed it in 1990. Later that year his manager, Mike Sendall, accepted his idea. Berners-Lee will later found W3C at the Massachusetts Institute of Technology in 1994. Berners-Lee incorporated the ENQUIRE system, a project he previously worked on, to create the world wide web. This also led to the first web browser. The first website ran on a NeXT computer at CERN within the border of France. Tim Berners-Lee created a web used by almost every being in this world.
@@ -65,6 +69,9 @@ Modern computing has been around since the early 1900s. Although computing was u
             style="width:256px;height:170.5px;">
 
     </div>
+    </article
+    
+    <article>
         <!--Paragraph 3-->
 <p style="border:3px; border-style:solid; border-color:black; padding: 1em;"
         class="tab">Steve Paul Jobs was born February 24, 1955, and he is recognized as one of the major spearheads of the microcomputer revolution of the late 1900s. Before he cofounded Apple he worked for Atari for a couple of years. Jobs later left to India to find enlightment and inner peace. Jobs returned after seven months in India. In 1976, Steve Wozniak, Jobs best friend, created the Apple I and the highly successful Apple II.  After creating the Apple I Jobs and Wozniak both co-founded Apple in 1996. Jobs resigned from Apple in 1985. Jobs would later join Apple again after Apple bought NeXT, a company which Steve co-founded. Jobs will then lead Apple to innovating the computing industry for years to come.
@@ -75,11 +82,14 @@ Modern computing has been around since the early 1900s. Although computing was u
              alt="Gates"
              style="width:256px;height:170.5px;">
         </div>
+        </article>
+        
+        <article>
         <!--Paragraph 4-->
 <p style="border:3px; border-style:solid; border-color:black; padding: 1em;"
         class="tab">William Henry Gates III, more commonly known as Bill Gates, was born on October 28, 1955.    Gates co-founded Microsoft in 1975 with Paul Allen.  Microsoft sold its first version of Microsoft Windows in 1985.  In Microsoft’s early years Gates was involved heavily in software developing, especially with programming language items. IBM, one of the biggest computer companies, came to Microsoft to ask the company to write the BASIC interpreter.  Microsoft changed the computing world by making computers personal. It should also be noted that Bill Gates saved Apple when they were low on revenue in the late 1990s. Bill Gates in his later years will leave Microsoft and accumulate over 90 billion dollars by 2016. Gates company will lead the pc world for year to come.
 </p>
-
+</article>
     <div style="text-align:center;">
     <img
         src="http://cdn.mspoweruser.netdna-cdn.com/wp-content/uploads/2016/02/billjobs.jpg"
@@ -91,11 +101,12 @@ Modern computing has been around since the early 1900s. Although computing was u
             style="width:140px;height:170.5px;">
 
 </div>
+<footer>
         <!--Paragraph 5-->
 <p style="border:3px; border-style:solid; border-color:black; padding: 1em;"
         class="tab">In conclusion these men helped define and mold what is currently modern computing. Tim Berners-Lee developed the world wide web and he developed the first web server. Steve Jobs co-founded Apple one of the computing history’s most influential companies. Bill Gates built the foundation of personal computing and he co-founded one of the biggest companies that have and continue to revolutionize computing. Although not all computing history has been accomplished with these men, most of modern computing have been written in these men’s biography.
 </p>
-
+</footer>
 <hr>
 <div style="text-align:center;">
 <p class="tab">SOURCE URLS
